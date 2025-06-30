@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/falgune2701/falgune2701/blob/main/banner.jpeg" alt="Banner">
+</div>
 <h1 align="center">Hi 👋, I'm Falgune Mondal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
