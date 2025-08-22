@@ -41,8 +41,3 @@
     </td>
   </tr>
 </table>
-
-## 🐍 My GitHub Contribution Snake
-
-<img src="https://raw.githubusercontent.com/falgune2701/falgune2701/main/dist/github-contribution-grid-snake.svg" width="100%" />
-
